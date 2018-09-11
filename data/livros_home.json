@@ -1,0 +1,15 @@
+[{"nome":"O PEQUENO PRÍNCIPE",
+    "descricao":"Um piloto isolado no deserto do Saara acorda e se depara com um garotinho loiro dizendo - Por favor, desenhe uma ovelha para mim. Nesse momento, o piloto se dá conta de que, quando a realidade parece inexplicável, não há outra escolha a não ser sucumbir a seus mistérios.",
+    "img":"img/l1.jpg"
+},
+{
+    "nome":"Extraordinario",
+    "descricao":"August Pullman, o Auggie, nasceu com uma síndrome genética cuja sequela é uma severa deformidade facial, que lhe impôs diversas cirurgias e complicações médicas. Por isso, ele nunca havia frequentado uma escola de verdade - até agora. Todo mundo sabe que é difícil ser um aluno novo, mais ainda quando se tem um rosto tão diferente.",
+    "img":"img/l2.jpg"
+},
+{
+    "nome":"O MISTERIO DO CINCO ESTRELAS",
+    "descricao":"Em 'O mistério do 5 estrelas', um homem é assassinado no apartamento 222 do Emperor Park Hotel. O único que viu o corpo foi Léo, o mensageiro. Mas ninguém acredita em suas histórias, a não ser seus amigos Gino e Ângela. Léo é apenas um garoto e seus inimigos são poderosos. Quem conseguirá desvendar o mistério do cinco estrelas?",
+    "img":"img/l3.jpg"
+}
+]
